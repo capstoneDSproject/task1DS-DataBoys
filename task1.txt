@@ -1,0 +1,15 @@
+Objective :
+To apply knowledge learned in Data Science for real life application.
+Goal :
+Discovering the importance of washing hands
+by reanalyzing the data that made Dr. Ignaz Semmelweis discover it himself.
+Problem :
+Childbed fever affects every women that had just given birth and as many as 10% women died from it.
+Clear Question :
+What is it that cause childbed fever and how to prevent it?
+How effective is the preventive measure?
+Measurable Outcome :
+% Mortality rate BEFORE the preventive measure is taken
+% Mortality rate AFTER the preventive measure is taken
+Data Sources :
+The data taken are from two clinics in Vienna General Hospital,Austria in the years between 1841 to 1846
